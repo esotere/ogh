@@ -6,11 +6,11 @@ $(function() {
 // ===============================================
    let slideIndex = 0;
    let images = [
-      "./assets/images/photo-background-1.jpg", 
-      "./assets/images/photo-background-2.jpg", 
-      // "./assets/images/photo-background-3.jpg", 
-      "./assets/images/photo-background-4.jpg", 
-      "./assets/images/photo-background-5.jpg"
+      "./OG-Holdings-LLC/assets/images/photo-background-1.jpg", 
+      "./OG-Holdings-LLC/assets/images/photo-background-2.jpg", 
+      // "./OG-Holdings-LLC/assets/images/photo-background-3.jpg", 
+      "./OG-Holdings-LLC/assets/images/photo-background-4.jpg", 
+      "./OG-Holdings-LLC/assets/images/photo-background-5.jpg"
    ];
    let slideshow = $("#banner-img");
    
